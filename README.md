@@ -1,4 +1,16 @@
 # Evidencias-Proyecto-Integrador
+## Instrucciones para ejecutar el proyecto
+- Clonar el repositorio
+  - git clone https://github.com/tu-usuario/tu-repo.git
+- Instalar dependencias
+  - Asegurate de tener instalado Node.js y luego ejecutá:
+    - npm install
+- Ejecutar el proyecto en modo desarrollo
+  -  npm run dev
+### Tecnologías utilizadas
+- React (con Vite)
+- Tailwind CSS para estilos
+- Axios para consumir la API: https://dummyjson.com/products
 ## Estadísticas Agregadas
 ### Se calcularon dinámicamente las siguientes estadísticas a partir de los productos filtrados:
 
