@@ -16,15 +16,15 @@
 
 
 ## División del Código en Componentes (continuación)
-- ProductList
-## Muestra la lista de productos en formato de tarjetas (Card).
-### Props recibidas:
+### ProductList
+#### Muestra la lista de productos en formato de tarjetas (Card).
+#### Props recibidas:
 
 - products: array de productos ya filtrados que deben renderizarse.
 
-## StatsPanel
-### Encargado de mostrar todas las estadísticas calculadas.
-### Props recibidas:
+### StatsPanel
+#### Encargado de mostrar todas las estadísticas calculadas.
+#### Props recibidas:
 
 - total: cantidad total de productos filtrados
 
