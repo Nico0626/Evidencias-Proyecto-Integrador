@@ -23,7 +23,7 @@
 - products: array de productos ya filtrados que deben renderizarse.
 
 ### StatsPanel
-#### Encargado de mostrar todas las estadísticas calculadas.
+#### Encargado de mostrar todas las estadísticas calculadas
 #### Props recibidas:
 
 - total: cantidad total de productos filtrados
